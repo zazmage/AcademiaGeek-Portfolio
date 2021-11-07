@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/js/main.882972bf.chunk.js",
-    "main.js.map": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/js/main.882972bf.chunk.js.map",
-    "runtime-main.js": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/js/runtime-main.6df36daa.js",
-    "runtime-main.js.map": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/js/runtime-main.6df36daa.js.map",
-    "static/js/2.a60e5a69.chunk.js": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/js/2.a60e5a69.chunk.js",
-    "static/js/2.a60e5a69.chunk.js.map": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/js/2.a60e5a69.chunk.js.map",
-    "static/js/3.1bd28cfb.chunk.js": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/js/3.1bd28cfb.chunk.js",
-    "static/js/3.1bd28cfb.chunk.js.map": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/js/3.1bd28cfb.chunk.js.map",
-    "index.html": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/index.html",
-    "static/js/2.a60e5a69.chunk.js.LICENSE.txt": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/js/2.a60e5a69.chunk.js.LICENSE.txt",
-    "static/media/arrow-down.913f0d08.svg": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/media/arrow-down.913f0d08.svg",
-    "static/media/daniel.57f56981.jpeg": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/media/daniel.57f56981.jpeg",
-    "static/media/fillimage.9d1c3e24.png": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/media/fillimage.9d1c3e24.png",
-    "static/media/heart.30d23535.svg": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/media/heart.30d23535.svg",
-    "static/media/icon-github.d36f5f9c.svg": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/media/icon-github.d36f5f9c.svg",
-    "static/media/icon-instagram.efa2fc67.svg": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/media/icon-instagram.efa2fc67.svg",
-    "static/media/icon-twitter_squared.5beeb48d.svg": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/media/icon-twitter_squared.5beeb48d.svg",
-    "static/media/ufo.57a7da85.png": "/aprendices-geek-entrenamiento-zazmage/Semana-3/portfolio/static/media/ufo.57a7da85.png"
+    "main.js": "/AcademiaGeek-Portfolio/static/js/main.882972bf.chunk.js",
+    "main.js.map": "/AcademiaGeek-Portfolio/static/js/main.882972bf.chunk.js.map",
+    "runtime-main.js": "/AcademiaGeek-Portfolio/static/js/runtime-main.b98e6327.js",
+    "runtime-main.js.map": "/AcademiaGeek-Portfolio/static/js/runtime-main.b98e6327.js.map",
+    "static/js/2.ec6f4d2b.chunk.js": "/AcademiaGeek-Portfolio/static/js/2.ec6f4d2b.chunk.js",
+    "static/js/2.ec6f4d2b.chunk.js.map": "/AcademiaGeek-Portfolio/static/js/2.ec6f4d2b.chunk.js.map",
+    "static/js/3.1bd28cfb.chunk.js": "/AcademiaGeek-Portfolio/static/js/3.1bd28cfb.chunk.js",
+    "static/js/3.1bd28cfb.chunk.js.map": "/AcademiaGeek-Portfolio/static/js/3.1bd28cfb.chunk.js.map",
+    "index.html": "/AcademiaGeek-Portfolio/index.html",
+    "static/js/2.ec6f4d2b.chunk.js.LICENSE.txt": "/AcademiaGeek-Portfolio/static/js/2.ec6f4d2b.chunk.js.LICENSE.txt",
+    "static/media/arrow-down.913f0d08.svg": "/AcademiaGeek-Portfolio/static/media/arrow-down.913f0d08.svg",
+    "static/media/daniel.57f56981.jpeg": "/AcademiaGeek-Portfolio/static/media/daniel.57f56981.jpeg",
+    "static/media/fillimage.9d1c3e24.png": "/AcademiaGeek-Portfolio/static/media/fillimage.9d1c3e24.png",
+    "static/media/heart.30d23535.svg": "/AcademiaGeek-Portfolio/static/media/heart.30d23535.svg",
+    "static/media/icon-github.d36f5f9c.svg": "/AcademiaGeek-Portfolio/static/media/icon-github.d36f5f9c.svg",
+    "static/media/icon-instagram.efa2fc67.svg": "/AcademiaGeek-Portfolio/static/media/icon-instagram.efa2fc67.svg",
+    "static/media/icon-twitter_squared.5beeb48d.svg": "/AcademiaGeek-Portfolio/static/media/icon-twitter_squared.5beeb48d.svg",
+    "static/media/ufo.57a7da85.png": "/AcademiaGeek-Portfolio/static/media/ufo.57a7da85.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6df36daa.js",
-    "static/js/2.a60e5a69.chunk.js",
+    "static/js/runtime-main.b98e6327.js",
+    "static/js/2.ec6f4d2b.chunk.js",
     "static/js/main.882972bf.chunk.js"
   ]
 }
