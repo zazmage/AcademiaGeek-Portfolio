@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636243724/Portfolio%20Academia%20geek/juan-antonio_ukvelh.png",
+    "name": "Juan Antonio",
+    "description": "Tengo algunos años trabajando con Javascript y aún así aprendí varias cosas importantes de Antonio y como utiliza Javascript en el día a día."
+  },
+  {
+    "id": 2,
+    "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636243724/Portfolio%20Academia%20geek/albert-flores_tqgt4y.png",
+    "name": "Albert Flores",
+    "description": "Me gustó ver el porqué de las cosas del core de React, saber la magia que ocurre por detrás, excelente profesor Antonio gran vocación."
+  },
+  {
+    "id": 3,
+    "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636243724/Portfolio%20Academia%20geek/darlene-robertson_ajxzvc.png",
+    "name": "Darlene Robertson",
+    "description": "Ayuda a entender el porqué de las cosas, lo cual nos da el poder de aprovechar mejor el lenguaje y las herramientas que tenemos."
+  },
+  {
+    "id": 4,
+    "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636243724/Portfolio%20Academia%20geek/jane-cooper_v8rshd.png",
+    "name": "Jane Cooper",
+    "description": "La forma como explica y trabaja los temas Antonio, me ha ayudado a comprender y sacarle el mayor provecho a HTML y CSS."
+  },
+  {
+    "id": 5,
+    "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636243724/Portfolio%20Academia%20geek/eleanor-pena_ptfaif.png",
+    "name": "Eleanor Pena",
+    "description": "Antonio ha sido de gran ayuda para acelerar ciertos esfuerzos de desarrollo. Lo que nos hubiera llevado 6 meses solo les llevó 1,5 meses."
+  },
+  {
+    "id": 6,
+    "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636243724/Portfolio%20Academia%20geek/guy-hawkins_kkfnqy.png",
+    "name": "Guy Hawkins",
+    "description": "Antonio ha superado mis espectativas desde el diseño hasta el desarrollo."
+  }
+]

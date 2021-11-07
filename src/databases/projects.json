@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636234973/Portfolio%20Academia%20geek/trisolaris_wnylk7.png",
+    "title": "Trisolaris",
+    "description": "E-comerce de los más afamados libros de ciencia ficción jamás escritos."
+  },
+  {
+    "id": 2,
+    "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636234973/Portfolio%20Academia%20geek/peliculas_itxyyu.png",
+    "title": "Películas para tí",
+    "description": "Plataforma con las mejores películas que puedes ver."
+  },
+  {
+    "id": 3,
+    "imgUrl": "https://res.cloudinary.com/deildujgx/image/upload/v1636234972/Portfolio%20Academia%20geek/calculadoraimc_njpfnn.png",
+    "title": "Calculadora IMC",
+    "description": "La calculadora para el índice de masa corporal más utilizada del mercado."
+  }
+]
